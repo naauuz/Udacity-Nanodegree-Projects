@@ -19,7 +19,7 @@ In this project, I have analysed local and global temperature data and compared 
 
 Investigate a dataset analyzes a dataset and then communicate the findings.
 
---------------------------------------------------------V
+--------------------------------------------------------
 
 -   Project 3: Analyze AB Test Results
 
