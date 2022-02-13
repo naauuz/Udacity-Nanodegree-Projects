@@ -10,6 +10,9 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 ## Projects List:
 
 -   Project 1: Exploring Weather Trends
+
+In this project, I have analysed local and global temperature data and compared the temperature trends with where I live to overall global temperatures
+
 -   Project 2: TMDb Movie Data Analysis
 -   Project 3: Analyze AB Test Results
 -   Project 4: Analyze Twitter Data
