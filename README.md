@@ -13,6 +13,8 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 
 In this project, I have analysed local and global temperature data and compared the temperature trends with where I live to overall global temperatures
 
+--------------------------------------------------------
+
 -   Project 2: TMDb Movie Data Analysis
 
 Investigate a dataset analyzes a dataset and then communicate the findings.
